@@ -18,7 +18,8 @@ It's a console calculator
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Works as a calculator. Can add, subtract, multiple and divide
+Works as a calculator. Can add, subtract, multiple and divide: <br/>
+<img src="https://ecpi.chalkandwire.com/fs/379/Artifacts/cw40071707id/Af_296028.PNG" height="50%" width="50%" alt="C Calc"/>
 <br />
 <br />
 
